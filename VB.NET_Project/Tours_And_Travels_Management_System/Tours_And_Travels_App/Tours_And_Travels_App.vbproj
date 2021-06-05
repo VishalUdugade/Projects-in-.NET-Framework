@@ -1,0 +1,834 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{430C1EEA-CD14-41FD-8CD4-665E0558AD8B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Tours_And_Travels_App.My.MyApplication</StartupObject>
+    <RootNamespace>Tours_And_Travels_App</RootNamespace>
+    <AssemblyName>Tours_And_Travels_App</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Tours_And_Travels_App.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Tours_And_Travels_App.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo__1x_xfB_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.4">
+      <HintPath>..\..\..\Bunifu_UI_v1.4.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Auto_Increm_Module.vb" />
+    <Compile Include="Clear_Controls_Module.vb" />
+    <Compile Include="Comman_Declared.vb" />
+    <Compile Include="comon_class.vb" />
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Customer Forms\Bunifu.vb" />
+    <Compile Include="Customer Forms\frm_Add_Customer.Designer.vb">
+      <DependentUpon>frm_Add_Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer Forms\frm_Add_Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer Forms\SqlCommand.vb" />
+    <Compile Include="Employee Forms\frm_Add_Employee.Designer.vb">
+      <DependentUpon>frm_Add_Employee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Forms\frm_Add_Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer Forms\frm_Add_Travellers_Information.Designer.vb">
+      <DependentUpon>frm_Add_Travellers_Information.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer Forms\frm_Add_Travellers_Information.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer Forms\frm_Delete_Customer.Designer.vb">
+      <DependentUpon>frm_Delete_Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer Forms\frm_Delete_Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Employee.Designer.vb">
+      <DependentUpon>frm_Employee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Cashier.Designer.vb">
+      <DependentUpon>frm_Cashier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Cashier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Customer.Designer.vb">
+      <DependentUpon>frm_Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Owner.Designer.vb">
+      <DependentUpon>frm_Owner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Owner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_booking.Designer.vb">
+      <DependentUpon>frm_booking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_booking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer Forms\frm_Payment.Designer.vb">
+      <DependentUpon>frm_Payment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer Forms\frm_Payment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package Froms\frm_Package_Tour_Dates.Designer.vb">
+      <DependentUpon>frm_Package_Tour_Dates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\frm_Package_Tour_Dates.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package Froms\frm_Create_Packages.Designer.vb">
+      <DependentUpon>frm_Create_Packages.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\frm_Create_Packages.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package Froms\frm_Days_Description.Designer.vb">
+      <DependentUpon>frm_Days_Description.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\frm_Days_Description.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee Forms\frm_Delete_Employee.Designer.vb">
+      <DependentUpon>frm_Delete_Employee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Forms\frm_Delete_Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package Froms\frm_Delete_Package.Designer.vb">
+      <DependentUpon>frm_Delete_Package.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\frm_Delete_Package.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Login.Designer.vb">
+      <DependentUpon>frm_Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Usermanagement.Designer.vb">
+      <DependentUpon>frm_Usermanagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Usermanagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package Froms\frm_Schedule_Pkg.Designer.vb">
+      <DependentUpon>frm_Schedule_Pkg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\frm_Schedule_Pkg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer Forms\frm_Update_Customer.Designer.vb">
+      <DependentUpon>frm_Update_Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer Forms\frm_Update_Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee Forms\frm_Update_Employee.Designer.vb">
+      <DependentUpon>frm_Update_Employee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Forms\frm_Update_Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package Froms\frm_Update_Package.Designer.vb">
+      <DependentUpon>frm_Update_Package.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\frm_Update_Package.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer Forms\frm_View_All_Customer_Details.Designer.vb">
+      <DependentUpon>frm_View_All_Customer_Details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer Forms\frm_View_All_Customer_Details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee Forms\frm_View_All_Employee.Designer.vb">
+      <DependentUpon>frm_View_All_Employee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Forms\frm_View_All_Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package Froms\frm_View_All_Package.Designer.vb">
+      <DependentUpon>frm_View_All_Package.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\frm_View_All_Package.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package Froms\frm_Show_Pkgs_to_Customer.Designer.vb">
+      <DependentUpon>frm_Show_Pkgs_to_Customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\frm_Show_Pkgs_to_Customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer Forms\frm_View_single_Customer_Details.Designer.vb">
+      <DependentUpon>frm_View_single_Customer_Details.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer Forms\frm_View_single_Customer_Details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Package Froms\frm_View_Single_Package.Designer.vb">
+      <DependentUpon>frm_View_Single_Package.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\frm_View_Single_Package.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package Froms\pkg_Days_Description.Designer.vb">
+      <DependentUpon>pkg_Days_Description.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\pkg_Days_Description.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Customer Forms\UC_Add_Travellers.Designer.vb">
+      <DependentUpon>UC_Add_Travellers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Customer Forms\UC_Add_Travellers.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Package Froms\UC_Schedule_Pkg.Designer.vb">
+      <DependentUpon>UC_Schedule_Pkg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\UC_Schedule_Pkg.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Package Froms\UC_Packages.Designer.vb">
+      <DependentUpon>UC_Packages.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\UC_Packages.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Package Froms\UC_Package_Tour_Dates.Designer.vb">
+      <DependentUpon>UC_Package_Tour_Dates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Package Froms\UC_Package_Tour_Dates.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\.Rpt\Bill_rpt.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Bill_rpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\.Rpt\Cancle_rpt.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cancle_rpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\.Rpt\Tour_Dates_Cust_rpt.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Tour_Dates_Cust_rpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\.Rpt\Single_Day_Calculation.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Single_Day_Calculation.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\.Rpt\single_package_report_rpt.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>single_package_report_rpt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\.Rpt\Travels.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Travels.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\DataSet\Bill_DS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Bill_DS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\DataSet\Bill_DS.vb">
+      <DependentUpon>Bill_DS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\DataSet\common_DS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>common_DS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\DataSet\common_DS.vb">
+      <DependentUpon>common_DS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\DataSet\single_day.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>single_day.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\DataSet\single_day.vb">
+      <DependentUpon>single_day.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Form\Report_Frm_bill.Designer.vb">
+      <DependentUpon>Report_Frm_bill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Form\Report_Frm_bill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\Form\Report_frm_datewise_customer.Designer.vb">
+      <DependentUpon>Report_frm_datewise_customer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Form\Report_frm_datewise_customer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\Form\Report_frm_Single_Day_calcuation.Designer.vb">
+      <DependentUpon>Report_frm_Single_Day_calcuation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Form\Report_frm_Single_Day_calcuation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\Form\Report_frm_Single_Package_Report.Designer.vb">
+      <DependentUpon>Report_frm_Single_Package_Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Form\Report_frm_Single_Package_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\Form\Report_frm_Tour_Dates_Cust.Designer.vb">
+      <DependentUpon>Report_frm_Tour_Dates_Cust.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Form\Report_frm_Tour_Dates_Cust.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tour\frm_add_tour.Designer.vb">
+      <DependentUpon>frm_add_tour.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tour\frm_add_tour.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tour\frm_show_tour.Designer.vb">
+      <DependentUpon>frm_show_tour.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tour\frm_show_tour.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tour\frm_update_tour.Designer.vb">
+      <DependentUpon>frm_update_tour.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tour\frm_update_tour.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tour\frm_view_single_tour.Designer.vb">
+      <DependentUpon>frm_view_single_tour.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tour\frm_view_single_tour.vb" />
+    <Compile Include="Tour\frm_view_tours.Designer.vb">
+      <DependentUpon>frm_view_tours.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tour\frm_view_tours.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vari_connection_module.vb" />
+    <Compile Include="Watermark.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer Forms\frm_Add_Customer.resx">
+      <DependentUpon>frm_Add_Customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Forms\frm_Add_Employee.resx">
+      <DependentUpon>frm_Add_Employee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer Forms\frm_Add_Travellers_Information.resx">
+      <DependentUpon>frm_Add_Travellers_Information.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer Forms\frm_Delete_Customer.resx">
+      <DependentUpon>frm_Delete_Customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Employee.resx">
+      <DependentUpon>frm_Employee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Cashier.resx">
+      <DependentUpon>frm_Cashier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Customer.resx">
+      <DependentUpon>frm_Customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Owner.resx">
+      <DependentUpon>frm_Owner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_booking.resx">
+      <DependentUpon>frm_booking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer Forms\frm_Payment.resx">
+      <DependentUpon>frm_Payment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\frm_Package_Tour_Dates.resx">
+      <DependentUpon>frm_Package_Tour_Dates.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\frm_Create_Packages.resx">
+      <DependentUpon>frm_Create_Packages.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\frm_Days_Description.resx">
+      <DependentUpon>frm_Days_Description.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Forms\frm_Delete_Employee.resx">
+      <DependentUpon>frm_Delete_Employee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\frm_Delete_Package.resx">
+      <DependentUpon>frm_Delete_Package.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Login.resx">
+      <DependentUpon>frm_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Usermanagement.resx">
+      <DependentUpon>frm_Usermanagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\frm_Schedule_Pkg.resx">
+      <DependentUpon>frm_Schedule_Pkg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer Forms\frm_Update_Customer.resx">
+      <DependentUpon>frm_Update_Customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Forms\frm_Update_Employee.resx">
+      <DependentUpon>frm_Update_Employee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\frm_Update_Package.resx">
+      <DependentUpon>frm_Update_Package.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer Forms\frm_View_All_Customer_Details.resx">
+      <DependentUpon>frm_View_All_Customer_Details.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Forms\frm_View_All_Employee.resx">
+      <DependentUpon>frm_View_All_Employee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\frm_View_All_Package.resx">
+      <DependentUpon>frm_View_All_Package.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\frm_Show_Pkgs_to_Customer.resx">
+      <DependentUpon>frm_Show_Pkgs_to_Customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer Forms\frm_View_single_Customer_Details.resx">
+      <DependentUpon>frm_View_single_Customer_Details.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\frm_View_Single_Package.resx">
+      <DependentUpon>frm_View_Single_Package.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\pkg_Days_Description.resx">
+      <DependentUpon>pkg_Days_Description.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer Forms\UC_Add_Travellers.resx">
+      <DependentUpon>UC_Add_Travellers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\UC_Schedule_Pkg.resx">
+      <DependentUpon>UC_Schedule_Pkg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\UC_Packages.resx">
+      <DependentUpon>UC_Packages.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package Froms\UC_Package_Tour_Dates.resx">
+      <DependentUpon>UC_Package_Tour_Dates.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\.Rpt\Bill_rpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Bill_rpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\.Rpt\Cancle_rpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cancle_rpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\.Rpt\Tour_Dates_Cust_rpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Tour_Dates_Cust_rpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\.Rpt\Single_Day_Calculation.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Single_Day_Calculation.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\.Rpt\single_package_report_rpt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>single_package_report_rpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\.Rpt\Travels.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Travels.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Form\Report_Frm_bill.resx">
+      <DependentUpon>Report_Frm_bill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Form\Report_frm_datewise_customer.resx">
+      <DependentUpon>Report_frm_datewise_customer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Form\Report_frm_Single_Day_calcuation.resx">
+      <DependentUpon>Report_frm_Single_Day_calcuation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Form\Report_frm_Single_Package_Report.resx">
+      <DependentUpon>Report_frm_Single_Package_Report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Form\Report_frm_Tour_Dates_Cust.resx">
+      <DependentUpon>Report_frm_Tour_Dates_Cust.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tour\frm_add_tour.resx">
+      <DependentUpon>frm_add_tour.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tour\frm_show_tour.resx">
+      <DependentUpon>frm_show_tour.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tour\frm_update_tour.resx">
+      <DependentUpon>frm_update_tour.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tour\frm_view_single_tour.resx">
+      <DependentUpon>frm_view_single_tour.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tour\frm_view_tours.resx">
+      <DependentUpon>frm_view_tours.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Employee Forms\ClassDiagram2.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Report\DataSet\Bill_DS.xsc">
+      <DependentUpon>Bill_DS.xsd</DependentUpon>
+    </None>
+    <None Include="Report\DataSet\Bill_DS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Bill_DS.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Report\DataSet\Bill_DS.xss">
+      <DependentUpon>Bill_DS.xsd</DependentUpon>
+    </None>
+    <None Include="Report\DataSet\common_DS.xsc">
+      <DependentUpon>common_DS.xsd</DependentUpon>
+    </None>
+    <None Include="Report\DataSet\common_DS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>common_DS.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Report\DataSet\common_DS.xss">
+      <DependentUpon>common_DS.xsd</DependentUpon>
+    </None>
+    <None Include="Report\DataSet\single_day.xsc">
+      <DependentUpon>single_day.xsd</DependentUpon>
+    </None>
+    <None Include="Report\DataSet\single_day.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>single_day.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Report\DataSet\single_day.xss">
+      <DependentUpon>single_day.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Administrator_Icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\india-banner-small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Administrator_Icon_2567.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NicePng_blue-gradient-png_498336.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\travel management.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\travel management1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Package_Icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Administrator_Icon_2561.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Man_2_Icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom_reports_Icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Electronic_billing_machine_Icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button_Help_Icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-session-logout-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Package_Add_Icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scheduled_Tasks_Icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Package-delete-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Package-delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back_Icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_Male_User_Icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sign_up_Icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Remove_Male_User_Icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Administrator_Icon_25671.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Administrator_Icon_2562.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_Icon_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-edit-clear-icon %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_Icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sign_Error_Icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_2_Icon_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view-icon %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text_Edit_Icon_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pensil_Icon_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Remove_Male_User_Icon_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_Icon_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_2_Icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save_Icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-edit-clear-icon %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pensil_Icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view-icon %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Text-Edit-icon %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttons.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Remove_Male_User_Icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit_Male_User_Icon_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-delete-icon %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Package_Icon_96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System_Package_Icon_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Man_2_Icon_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Electronic_billing_machine_Icon_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom_reports_Icon_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit_Male_User_Icon_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Package_Add_Icon_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scheduled_Tasks_Icon_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Receptionist_Icon_128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo__1x_xfB_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

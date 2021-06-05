@@ -1,0 +1,66 @@
+E:\QuizSystem2020\QuizSystem2020\bin\Debug\QuizSystem2020.exe
+E:\QuizSystem2020\QuizSystem2020\bin\Debug\QuizSystem2020.pdb
+E:\QuizSystem2020\QuizSystem2020\bin\Debug\QuizSystem2020.xml
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.Form1.resources
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmQuizStart.resources
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.Resources.resources
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.vbproj.GenerateResource.Cache
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.exe
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.xml
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.pdb
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmTeamEntry.resources
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmHScore.resources
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmImage.resources
+E:\QuizSystem2020\QuizSystem2020\bin\Debug\Interop.WMPLib.dll
+E:\QuizSystem2020\QuizSystem2020\bin\Debug\AxInterop.WMPLib.dll
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\Interop.WMPLib.dll
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.vbproj.ResolveComReference.cache
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmMedia.resources
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\Interop.WMPLib.dll
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.vbproj.ResolveComReference.cache
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.exe
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.xml
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.pdb
+E:\quize\QuizSystem2020\QuizSystem2020\bin\Debug\QuizSystem2020.exe
+E:\quize\QuizSystem2020\QuizSystem2020\bin\Debug\QuizSystem2020.pdb
+E:\quize\QuizSystem2020\QuizSystem2020\bin\Debug\QuizSystem2020.xml
+E:\quize\QuizSystem2020\QuizSystem2020\bin\Debug\Interop.WMPLib.dll
+E:\quize\QuizSystem2020\QuizSystem2020\bin\Debug\AxInterop.WMPLib.dll
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.Form1.resources
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmHScore.resources
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmImage.resources
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmMedia.resources
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmQuizStart.resources
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmTeamEntry.resources
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.Resources.resources
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.vbproj.GenerateResource.Cache
+E:\quize\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.Main_menu.resources
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.Main_menu.resources
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmVscore.resources
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmAnimated.resources
+E:\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frm_final_result.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\Interop.WMPLib.dll
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.vbproj.ResolveComReference.cache
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.exe
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.xml
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.pdb
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\bin\Debug\QuizSystem2020.exe
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\bin\Debug\QuizSystem2020.pdb
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\bin\Debug\QuizSystem2020.xml
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\bin\Debug\Interop.WMPLib.dll
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\bin\Debug\AxInterop.WMPLib.dll
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.Form1.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmAnimated.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmHScore.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmImage.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmMedia.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmQuizStart.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmTeamEntry.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frmVscore.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.frm_final_result.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.Main_menu.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.Resources.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\QuizSystem2020\QuizSystem2020\obj\x86\Debug\QuizSystem2020.vbproj.GenerateResource.Cache

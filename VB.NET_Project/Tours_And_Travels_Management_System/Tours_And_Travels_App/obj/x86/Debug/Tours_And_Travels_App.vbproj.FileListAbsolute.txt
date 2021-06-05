@@ -1,0 +1,154 @@
+C:\Users\Sai\AppData\Local\Temporary Projects\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Login.resources
+C:\Users\Sai\AppData\Local\Temporary Projects\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.MDI_Receptionist.resources
+C:\Users\Sai\AppData\Local\Temporary Projects\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Resources.resources
+C:\Users\Sai\AppData\Local\Temporary Projects\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.vbproj.GenerateResource.Cache
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\bin\Debug\Tours_And_Travels_App.exe
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\bin\Debug\Tours_And_Travels_App.pdb
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\bin\Debug\Tours_And_Travels_App.xml
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\bin\Debug\Bunifu_UI_v1.4.dll
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Add_Customer.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Create_Packages.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Customer_Bill.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Days_Description.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Delete_Package.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Login.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Receptionist.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Schedule_Pkg.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Update_Customer.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Update_Package.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_All_Customer_Details.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_All_Package.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Show_Pkgs_to_Customer.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_single_Customer_Details.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.MDI_Receptionist.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Resources.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.pkg_Days_Description.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.UC_Add_Travellers.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.UC_Packages.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.vbproj.GenerateResource.Cache
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.exe
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.xml
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.pdb
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Add_Travellers_Information.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.UC_Out_Dated_Pkg.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.vbprojResolveAssemblyReference.cache
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Add_Employee.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Delete_Employee.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Update_Employee.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_All_Employee.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_Single_Employee.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Delete_Customer.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.MDI_Cashier.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.MDI_Owner.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_Single_Package.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Create_Private_Customer_Bill.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Add_Private_Customer.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Create_Private_Customer_Package.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Delete_Private_Customer.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Delete_Private_Customer_Package.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Update_Private_Cstomer_Package.resources
+D:\Tours and Travels Management System Project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Update_Private_Customer_Detail.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\bin\Debug\Tours_And_Travels_App.exe.config
+D:\Tours_And_Travels_App\Tours_And_Travels_App\bin\Debug\Tours_And_Travels_App.exe
+D:\Tours_And_Travels_App\Tours_And_Travels_App\bin\Debug\Tours_And_Travels_App.pdb
+D:\Tours_And_Travels_App\Tours_And_Travels_App\bin\Debug\Tours_And_Travels_App.xml
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.vbprojResolveAssemblyReference.cache
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Add_Customer.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Add_Employee.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Add_Travellers_Information.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Delete_Customer.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Employee.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Cashier.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Customer.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Owner.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_booking.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Payment.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Package_Tour_Dates.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Create_Packages.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Days_Description.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Delete_Employee.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Delete_Package.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Login.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Usermanagement.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Schedule_Pkg.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Update_Customer.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Update_Employee.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Update_Package.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_All_Customer_Details.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_All_Employee.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_All_Package.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Show_Pkgs_to_Customer.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_single_Customer_Details.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Resources.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_Single_Package.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.pkg_Days_Description.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.UC_Add_Travellers.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.UC_Schedule_Pkg.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.UC_Packages.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.UC_Package_Tour_Dates.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Report_Frm_bill.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Report_frm_datewise_customer.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Report_frm_Single_Day_calcuation.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Report_frm_Single_Package_Report.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Report_frm_Tour_Dates_Cust.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_add_tour.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_show_tour.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_update_tour.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_view_single_tour.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_view_tours.resources
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.vbproj.GenerateResource.Cache
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.exe
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.xml
+D:\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.pdb
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\bin\Debug\Tours_And_Travels_App.exe.config
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\bin\Debug\Tours_And_Travels_App.exe
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\bin\Debug\Tours_And_Travels_App.pdb
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\bin\Debug\Tours_And_Travels_App.xml
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.vbprojResolveAssemblyReference.cache
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Add_Customer.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Add_Employee.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Add_Travellers_Information.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Delete_Customer.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Employee.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Cashier.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Customer.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Owner.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_booking.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Payment.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Package_Tour_Dates.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Create_Packages.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Days_Description.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Delete_Employee.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Delete_Package.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Login.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Usermanagement.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Schedule_Pkg.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Update_Customer.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Update_Employee.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Update_Package.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_All_Customer_Details.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_All_Employee.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_All_Package.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_Show_Pkgs_to_Customer.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_single_Customer_Details.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Resources.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_View_Single_Package.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.pkg_Days_Description.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.UC_Add_Travellers.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.UC_Schedule_Pkg.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.UC_Packages.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.UC_Package_Tour_Dates.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Report_Frm_bill.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Report_frm_datewise_customer.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Report_frm_Single_Day_calcuation.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Report_frm_Single_Package_Report.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.Report_frm_Tour_Dates_Cust.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_add_tour.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_show_tour.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_update_tour.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_view_single_tour.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.frm_view_tours.resources
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.vbproj.GenerateResource.Cache
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.exe
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.xml
+D:\Github\.NET\Projects on Visual Studio IDE\VB.Net project\Tours_And_Travels_App\Tours_And_Travels_App\obj\x86\Debug\Tours_And_Travels_App.pdb

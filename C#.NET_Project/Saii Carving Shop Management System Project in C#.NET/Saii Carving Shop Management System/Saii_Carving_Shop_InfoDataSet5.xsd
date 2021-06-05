@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Saii_Carving_Shop_InfoDataSet5" targetNamespace="http://tempuri.org/Saii_Carving_Shop_InfoDataSet5.xsd" xmlns:mstns="http://tempuri.org/Saii_Carving_Shop_InfoDataSet5.xsd" xmlns="http://tempuri.org/Saii_Carving_Shop_InfoDataSet5.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Saii_Carving_Shop_InfoConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Saii_Carving_Shop_InfoConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Saii_Carving_Shop_Management_System.Properties.Settings.GlobalReference.Default.Saii_Carving_Shop_InfoConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tbl_Add_Update_StockTableAdapter" GeneratorDataComponentClassName="tbl_Add_Update_StockTableAdapter" Name="tbl_Add_Update_Stock" UserDataComponentName="tbl_Add_Update_StockTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Saii_Carving_Shop_InfoConnectionString (Settings)" DbObjectName="dbo.tbl_Add_Update_Stock" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Material, Thikness FROM dbo.tbl_Add_Update_Stock</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Material" DataSetColumn="Material" />
+              <Mapping SourceColumn="Thikness" DataSetColumn="Thikness" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Saii_Carving_Shop_InfoDataSet5" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Saii_Carving_Shop_InfoDataSet5" msprop:Generator_UserDSName="Saii_Carving_Shop_InfoDataSet5">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tbl_Add_Update_Stock" msprop:Generator_TableClassName="tbl_Add_Update_StockDataTable" msprop:Generator_TableVarName="tabletbl_Add_Update_Stock" msprop:Generator_TablePropName="tbl_Add_Update_Stock" msprop:Generator_RowDeletingName="tbl_Add_Update_StockRowDeleting" msprop:Generator_RowChangingName="tbl_Add_Update_StockRowChanging" msprop:Generator_RowEvHandlerName="tbl_Add_Update_StockRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_Add_Update_StockRowDeleted" msprop:Generator_UserTableName="tbl_Add_Update_Stock" msprop:Generator_RowChangedName="tbl_Add_Update_StockRowChanged" msprop:Generator_RowEvArgName="tbl_Add_Update_StockRowChangeEvent" msprop:Generator_RowClassName="tbl_Add_Update_StockRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Material" msprop:Generator_ColumnVarNameInTable="columnMaterial" msprop:Generator_ColumnPropNameInRow="Material" msprop:Generator_ColumnPropNameInTable="MaterialColumn" msprop:Generator_UserColumnName="Material">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Thikness" msprop:Generator_ColumnVarNameInTable="columnThikness" msprop:Generator_ColumnPropNameInRow="Thikness" msprop:Generator_ColumnPropNameInTable="ThiknessColumn" msprop:Generator_UserColumnName="Thikness" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

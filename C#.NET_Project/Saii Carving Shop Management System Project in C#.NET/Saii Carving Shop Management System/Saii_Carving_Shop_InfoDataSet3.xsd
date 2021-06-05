@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Saii_Carving_Shop_InfoDataSet3" targetNamespace="http://tempuri.org/Saii_Carving_Shop_InfoDataSet3.xsd" xmlns:mstns="http://tempuri.org/Saii_Carving_Shop_InfoDataSet3.xsd" xmlns="http://tempuri.org/Saii_Carving_Shop_InfoDataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Saii_Carving_Shop_InfoConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Saii_Carving_Shop_InfoConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Saii_Carving_Shop_Management_System.Properties.Settings.GlobalReference.Default.Saii_Carving_Shop_InfoConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Customer_DetailsTableAdapter" GeneratorDataComponentClassName="Customer_DetailsTableAdapter" Name="Customer_Details" UserDataComponentName="Customer_DetailsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Saii_Carving_Shop_InfoConnectionString (Settings)" DbObjectName="dbo.Customer_Details" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Customer_Name, Mobile_No FROM dbo.Customer_Details</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Customer_Name" DataSetColumn="Customer_Name" />
+              <Mapping SourceColumn="Mobile_No" DataSetColumn="Mobile_No" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Saii_Carving_Shop_InfoDataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Saii_Carving_Shop_InfoDataSet3" msprop:Generator_UserDSName="Saii_Carving_Shop_InfoDataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Customer_Details" msprop:Generator_TableClassName="Customer_DetailsDataTable" msprop:Generator_TableVarName="tableCustomer_Details" msprop:Generator_TablePropName="Customer_Details" msprop:Generator_RowDeletingName="Customer_DetailsRowDeleting" msprop:Generator_RowChangingName="Customer_DetailsRowChanging" msprop:Generator_RowEvHandlerName="Customer_DetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="Customer_DetailsRowDeleted" msprop:Generator_UserTableName="Customer_Details" msprop:Generator_RowChangedName="Customer_DetailsRowChanged" msprop:Generator_RowEvArgName="Customer_DetailsRowChangeEvent" msprop:Generator_RowClassName="Customer_DetailsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Customer_Name" msprop:Generator_ColumnVarNameInTable="columnCustomer_Name" msprop:Generator_ColumnPropNameInRow="Customer_Name" msprop:Generator_ColumnPropNameInTable="Customer_NameColumn" msprop:Generator_UserColumnName="Customer_Name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Mobile_No" msprop:Generator_ColumnVarNameInTable="columnMobile_No" msprop:Generator_ColumnPropNameInRow="Mobile_No" msprop:Generator_ColumnPropNameInTable="Mobile_NoColumn" msprop:Generator_UserColumnName="Mobile_No" type="xs:decimal" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

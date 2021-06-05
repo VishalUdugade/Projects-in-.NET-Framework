@@ -1,0 +1,137 @@
+D:\VB PROJECT\Saii Carving Shop Management System\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.exe
+D:\VB PROJECT\Saii Carving Shop Management System\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.pdb
+D:\VB PROJECT\Saii Carving Shop Management System\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Form1.resources
+D:\VB PROJECT\Saii Carving Shop Management System\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Properties.Resources.resources
+D:\VB PROJECT\Saii Carving Shop Management System\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.csproj.GenerateResource.Cache
+D:\VB PROJECT\Saii Carving Shop Management System\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.exe
+D:\VB PROJECT\Saii Carving Shop Management System\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.pdb
+D:\VB PROJECT\Saii Carving Shop Management System\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Customer.resources
+D:\VB PROJECT\Saii Carving Shop Management System\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Customer.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.exe
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.pdb
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.exe
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.pdb
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Customer.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Login.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Properties.Resources.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Customer.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.csproj.GenerateResource.Cache
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_New_Material.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Update_Stock.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Employee.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Update_Employee.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.User_Managment.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Employee.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Material.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Sheets.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_stock.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Wastage_Sheets.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Wastage_Sheets.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.csprojResolveAssemblyReference.cache
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii_Carving_Shop_Info.mdf
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii_Carving_Shop_Info_log.ldf
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.exe.config
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.exe
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.pdb
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Customer.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Employee.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_New_Material.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Update_Stock.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Login.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Properties.Resources.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Update_Employee.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.UserManagement.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Customer.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Employee.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Material.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Sheets.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_stock.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Wastage_Sheets.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Wastage_Sheets.resources
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.csproj.GenerateResource.Cache
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.exe
+E:\Ashish Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.pdb
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.exe.config
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.exe
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.pdb
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii_Carving_Shop_Info.mdf
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii_Carving_Shop_Info_log.ldf
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.exe
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.pdb
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Customer.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Employee.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_New_Material.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Update_Stock.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Login.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Properties.Resources.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Update_Employee.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.UserManagement.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Customer.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Employee.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Material.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Sheets.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_stock.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Wastage_Sheets.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Wastage_Sheets.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.csproj.GenerateResource.Cache
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.MDIParent.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.csprojResolveAssemblyReference.cache
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.CustomerReport.resources
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.exe.licenses
+D:\VB PROJECT\Saii Carving Shop Management System C#\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.CustomerReport_dv.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Customer.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Employee.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_New_Material.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Update_Stock.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.CustomerReport.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.CustomerReport_dv.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Login.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.MDIParent.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Properties.Resources.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Update_Employee.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.UserManagement.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Customer.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Employee.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Material.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Sheets.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_stock.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Wastage_Sheets.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Wastage_Sheets.resources
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.csproj.GenerateResource.Cache
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.exe.licenses
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii_Carving_Shop_Info.mdf
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii_Carving_Shop_Info_log.ldf
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.exe.config
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.exe
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.pdb
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.exe
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.pdb
+E:\Ashish Project\Ashish C# project using dual express\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.csprojResolveAssemblyReference.cache
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.exe.config
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.exe
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.pdb
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.csprojResolveAssemblyReference.cache
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Customer.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Employee.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_New_Material.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Update_Stock.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.CustomerReport.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.CustomerReport_dv.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Login.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.MDIParent.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Properties.Resources.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Update_Employee.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.UserManagement.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Customer.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Employee.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Material.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Sheets.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_stock.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.View_All_Wastage_Sheets.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii_Carving_Shop_Management_System.Add_Wastage_Sheets.resources
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.csproj.GenerateResource.Cache
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\obj\x86\Debug\Saii Carving Shop Management System.exe.licenses
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii_Carving_Shop_Info.mdf
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii_Carving_Shop_Info_log.ldf
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.exe
+D:\Github\.NET\Projects on Visual Studio IDE\C#.Net Project\Saii Carving Shop Management System C#\Saii Carving Shop Management System\bin\Debug\Saii Carving Shop Management System.pdb

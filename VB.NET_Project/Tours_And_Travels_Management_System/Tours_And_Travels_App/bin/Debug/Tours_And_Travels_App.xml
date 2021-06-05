@@ -1,0 +1,424 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Tours_And_Travels_App
+</name>
+</assembly>
+<members>
+<member name="T:Tours_And_Travels_App.single_day">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.cancel_bookingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.cancel_travellerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.Cust_InfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.Emp_InfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.pkg_days_descriDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.pkg_infoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.pkg_paymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.pkg_tours_dateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.report_paymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.TravellerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.cancel_bookingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.cancel_travellerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.Cust_InfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.Emp_InfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.pkg_days_descriRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.pkg_infoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.pkg_paymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.pkg_tours_dateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.report_paymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.TravellerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.cancel_bookingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.cancel_travellerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.Cust_InfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.Emp_InfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.pkg_days_descriRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.pkg_infoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.pkg_paymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.pkg_tours_dateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.report_paymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS.TravellerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.common_DS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Tours_And_Travels_App.Bill_DS.pkg_paymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.Bill_DS.report_paymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.Bill_DS.Cust_InfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.Bill_DS.pkg_paymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.Bill_DS.report_paymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.Bill_DS.Cust_InfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Tours_And_Travels_App.Bill_DS.pkg_paymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.Bill_DS.report_paymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.Bill_DS.Cust_InfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Tours_And_Travels_App.Bill_DS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Actions_edit_clear_icon__4_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Actions_edit_clear_icon__5_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Add_2_Icon_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Add_2_Icon_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Add_Male_User_Icon_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Administrator_Icon_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Administrator_Icon_2561">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Administrator_Icon_2562">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Administrator_Icon_2567">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Administrator_Icon_25671">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Apps_session_logout_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Back_Icon_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Button_Help_Icon_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.buttons">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Custom_reports_Icon_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Custom_reports_Icon_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Edit_Male_User_Icon_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Edit_Male_User_Icon_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Electronic_billing_machine_Icon_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Electronic_billing_machine_Icon_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.eye_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.eye_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.india_banner_small">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.LOG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Man_2_Icon_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Man_2_Icon_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.NicePng_blue_gradient_png_498336">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Package_Add_Icon_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Package_Add_Icon_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Package_delete_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Package_delete_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Pensil_Icon_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Pensil_Icon_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.product_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Receptionist_Icon_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Remove_Male_User_Icon_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Remove_Male_User_Icon_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Remove_Male_User_Icon_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Save_Icon_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Save_Icon_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Save_Icon_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Scheduled_Tasks_Icon_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Scheduled_Tasks_Icon_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Search_Icon_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Sign_Error_Icon_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Sign_up_Icon_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.System_Package_Icon_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.System_Package_Icon_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.System_Package_Icon_96">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Text_Edit_icon__5_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.Text_Edit_Icon_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.travel_management">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.travel_management1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.user_add_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.user_delete_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.user_delete_icon__5_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.view_icon__5_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Tours_And_Travels_App.My.Resources.Resources.view_icon__6_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Tours_And_Travels_App.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
